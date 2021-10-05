@@ -1,4 +1,4 @@
-package test_lab;
+package practice.composite.test_lab;
 
 public final class TestMain {
 

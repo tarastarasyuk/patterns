@@ -1,4 +1,4 @@
-package test_lab;
+package practice.composite.test_lab;
 
 public interface API2 extends GeneralAPI {
 

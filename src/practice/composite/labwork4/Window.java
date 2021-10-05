@@ -1,4 +1,4 @@
-package labwork4;
+package practice.composite.labwork4;
 
 /**
  * Class Window that represents GUI element Window

@@ -1,4 +1,4 @@
-package test_lab;
+package practice.composite.test_lab;
 
 public class Impl1 extends Implementor {
 

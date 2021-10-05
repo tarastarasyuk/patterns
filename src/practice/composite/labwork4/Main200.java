@@ -1,4 +1,4 @@
-package labwork4;
+package practice.composite.labwork4;
 
 /**
  * Class Main200 with entry point
