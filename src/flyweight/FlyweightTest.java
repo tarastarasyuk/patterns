@@ -37,7 +37,6 @@ public class FlyweightTest {
         Developer d1 = developerFactory.getDeveloperBySpeciality("java");
         Developer d2 = developerFactory.getDeveloperBySpeciality("java");
 
-        System.out.println(d1==d2);
 
         for (Developer developer: developers) {
             developer.writeCode();
