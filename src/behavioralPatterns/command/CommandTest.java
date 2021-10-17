@@ -10,6 +10,11 @@ package behavioralPatterns.command;
  *
  * -параметризація об'єктів певною дією
  * -визначити запрос, поставити в чергу або виконати його в різний час
+ *
+ * ***********************
+ * тут дуже добре пояснюється
+ * https://javarush.ru/groups/posts/1684-pattern-command-svoimi-slovami
+ * приклад в пакеті - javarushExample
  */
 
 public class CommandTest {
